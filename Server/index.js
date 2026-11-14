@@ -16,7 +16,7 @@ const privateCors =
 
     origin: [
       "https://shifraai-stdj.onrender.com",
-      "http://localhost:5173"
+      "https://siteguide-ulit.onrender.com"
     ],
 
     credentials: true
