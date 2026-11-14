@@ -18,7 +18,7 @@
 
     link.rel = "stylesheet"
 
-    link.href = "https://shifraai-stdj.onrender.com/assistant.css"
+    link.href = "https://siteguide-ulit.onrender.com/assistant.css"
 
     document.head.appendChild(link)
 
@@ -75,7 +75,7 @@
         <div class="shifra-bottom">
             <button class="shifra-mic">
                <img 
-               src="https://shifraai-stdj.onrender.com/mic.svg"
+               src="https://siteguide-ulit.onrender.com/mic.svg"
                alt="mic"
                class="shifra-mic-icon"/>
             </button>
@@ -104,7 +104,7 @@
 
     button.innerHTML = `
     <img 
-    src="https://shifraai-stdj.onrender.com/siteguide-mark.svg"
+    src="https://siteguide-ulit.onrender.com/siteguide-mark.svg"
     alt="SiteGuide"
     />`;
     document.body.appendChild(button)
