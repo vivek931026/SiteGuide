@@ -10,7 +10,7 @@ import Navbar from './Components/Navbar'
 import ProtectedRoute from './Components/ProtectedRoute'
 
 export const ServerUrl = 'hhttps://siteguideserver.onrender.com'
-export const CLIENT_URL = 'http://localhost:5173'
+export const CLIENT_URL = 'https://siteguide-ulit.onrender.com'
 
 function App() {
   const [user, setUser] = useState(null)
