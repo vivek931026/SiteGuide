@@ -9,7 +9,7 @@ import Billing from './pages/Billing'
 import Navbar from './Components/Navbar'
 import ProtectedRoute from './Components/ProtectedRoute'
 
-export const ServerUrl = 'http://localhost:8000'
+export const ServerUrl = 'hhttps://siteguideserver.onrender.com'
 export const CLIENT_URL = 'http://localhost:5173'
 
 function App() {
